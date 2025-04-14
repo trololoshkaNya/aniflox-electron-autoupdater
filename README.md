@@ -1,1 +1,1 @@
-# aniflox-electron-autoupdater
+# anifloxy-electron-autoupdater
